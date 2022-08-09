@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Sarthak Kashyap",
+    "occupation": "MERN Stack Web Developer",
+    "description": "FullStack JavaScript Developer",
+    "image": "profile_pic.png",
+    "bio": "My name is Sarthak, I'm a Full Stack Developer. Currently I'm a 3rd Year B.Tech. UnderGrad at Birla Institute of Technology, Mesra.",
+    "contactmessage": "Get in touch with me.",
+    "email": "sarthakkashyap190@gmail.com",
+    "phone": "+91-70-11-577-567",
+    "address": {
+      "street": "",
+      "city": "Ara",
+      "state": "Bihar",
+      "zip": "802302"
+    },
+    "website": "https://sarthak-kashyap-portfolio.netlify.app/",
+    "resumedownload": "/Sarthak-Kashyap-Resume_Aug-2022.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sarthak.singhrajput.14",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sarthak-kashyap-71222b136/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_sarthak_kashyap/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sarthak-2024",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm fond of solving DSA and cp problems for the seconds of satisfaction I get when my code gets accepted",
+    "education": [
+      {
+        "school": "Birla Institute of Technology",
+        "degree": "Electronics and Communication",
+        "graduated": "2024",
+        "description": "Current Grades: 8.904"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ecommerce-Hut",
+        "title": "Extensive Full-Stack Ecommerce Website",
+        "years": "MERN Stack Web Developer",
+        "description": "Built an interactive and responsive frontend using ReactJS • Handled action calls using NodeJs using ExpressJs in the backend and Redux in the frontend • Defined roles of users (browsing products using filters, add item to cart, order, change profile) and admin (adding products, managing orders, managing users) • MongoDB used a Storage database."
+      },
+      {
+        "company": "Imagine Images",
+        "title": "Web-Forum for Photos",
+        "years": "MERN Stack Web Developer",
+        "description": "Real-time Dynamic Responsive web application to host collections of Photographs using ReactJS • Browse through limitless categories of photographs, Add posts after logging in as user • Backend action calls handled by NodeJS using ExpressJS • MongoDB used as Database."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Data Structures and Algorithms",
+        "level": "90%"
+      },
+      {
+        "name": "Competitive Programming",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "68%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "72%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "75%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ecommerce-Hut",
+        "category": "Built an interactive and responsive frontend using ReactJS • Handled action calls using NodeJs using ExpressJs in the backend and Redux in the frontend • Roles of users (browsing products using filters, add item to cart, order, change profile) and admin (adding products, managing orders, managing users) • MongoDB used a Storage database",
+        "image": "ecommerce-hut.png",
+        "url": "https://ecommerce-hut.herokuapp.com/"
+      },
+      {
+        "title": "Imagine-Images",
+        "category": "Real-time Dynamic Responsive web application to host collections of Photographs using ReactJS • Browse through limitless categories of photographs, Add posts after logging in as user • Backend action calls handled by NodeJS using ExpressJS • MongoDB used as Database",
+        "image": "imagine-images.png",
+        "url": "https://imagine-images.herokuapp.com/"
+      }
+    ],
+    "project": [
+      {
+        "title": "Geeks for Geeks Practice - 417 Questions - 200 Medium - 50 Hard",
+        "category": "#Coding score 1471  #Rank in Institute 16  #Overall Rank 2204",
+        "image": "gfg.png",
+        "url": "https://auth.geeksforgeeks.org/user/sarthakkashyap190/practice"
+      },
+      {
+        "title": "CodeForces - 290 Questions - SPECIALIST - 1430",
+        "category": "Specialist at the most popular competitive programming website, with the Rating of 1430",
+        "image": "cf.png",
+        "url": "https://codeforces.com/profile/Sarthak190"
+      },
+      {
+        "title": "CodeChef 3 Star max Rating of 1705",
+        "category": "3 Star Coder at CodeChef with the rating of 1705",
+        "image": "cc.png",
+        "url": "https://www.codechef.com/users/sarthak190"
+      },
+      {
+        "title": "LeetCode",
+        "category": "Solved 53 DSA Problems on LeetCode",
+        "image": "leetcode.png",
+        "url": "https://leetcode.com/sarthakkashyap190/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sarthak is a really Hard-working students who have solved so many problems on Data Structures and Algorithmns",
+        "user": "Chandrachud Sirvastava - Google intern"
+      },
+      {
+        "text": "Sarthak is always among the top in the standings in any competitive programming Contest and its so fun competing with",
+        "user": "Aryank Upadhayay - Competitve Programmer"
+      }
+    ]
+  }
+}
