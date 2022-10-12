@@ -111,28 +111,28 @@
     ],
     "project": [
       {
-        "title": "Geeks for Geeks Practice - 417 Questions - 200 Medium - 50 Hard",
-        "category": "#Coding score 1471  #Rank in Institute 16  #Overall Rank 2204",
+        "title": "Geeks for Geeks Practice - 450+ Questions - 222 Medium - 50 Hard",
+        "category": "450+ problems solved #Coding score 1577 #Rank in Institute 17 #Rank 2067",
         "image": "gfg.png",
         "url": "https://auth.geeksforgeeks.org/user/sarthakkashyap190/practice"
       },
       {
-        "title": "CodeForces - 290 Questions - SPECIALIST - 1430",
+        "title": "CodeForces - 300+ Questions - SPECIALIST - 1430",
         "category": "Specialist at the most popular competitive programming website, with the Rating of 1430",
         "image": "cf.png",
         "url": "https://codeforces.com/profile/Sarthak190"
+      },
+      {
+        "title": "LeetCode",
+        "category": "Solved  80 problems solved | Contest Rating 1793",
+        "image": "leetcode.png",
+        "url": "https://leetcode.com/sarthakkashyap190/"
       },
       {
         "title": "CodeChef 3 Star max Rating of 1705",
         "category": "3 Star Coder at CodeChef with the rating of 1705",
         "image": "cc.png",
         "url": "https://www.codechef.com/users/sarthak190"
-      },
-      {
-        "title": "LeetCode",
-        "category": "Solved 53 DSA Problems on LeetCode",
-        "image": "leetcode.png",
-        "url": "https://leetcode.com/sarthakkashyap190/"
       }
     ]
   },
@@ -140,11 +140,11 @@
     "testimonials": [
       {
         "text": "Sarthak is a really Hard-working students who have solved so many problems on Data Structures and Algorithmns",
-        "user": "Chandrachud Sirvastava - Google intern"
+        "user": "Chandrachud Sirvastava - CRED Backend intern"
       },
       {
         "text": "Sarthak is always among the top in the standings in any competitive programming Contest and its so fun competing with",
-        "user": "Aryank Upadhayay - Competitve Programmer"
+        "user": "Aryank Upadhayay - CRED Backend intern"
       }
     ]
   }
